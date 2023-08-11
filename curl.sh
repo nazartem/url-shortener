@@ -1,0 +1,1 @@
+curl -iL -w "\n" -X POST -H "Content-Type: application/json" --data '{"url":"http:\\google.com","alias":"google"}' localhost:8082/url
